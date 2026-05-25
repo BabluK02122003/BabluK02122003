@@ -5,28 +5,31 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+AI+Analyst;Fresher+with+big+goals+and+clean+code;Building+smart+solutions+with+creativity+and+logic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+AI+Enthusiast;Building+Smart+and+Practical+Solutions;Passionate+about+Coding%2C+AI+and+Innovation" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm **KODURI DURGA PRASAD**, a passionate **Software Developer and AI Analyst** focused on building practical, modern, and meaningful solutions through code.  
-As a fresher, I bring strong enthusiasm, adaptability, and a continuous learning mindset to software development, AI, testing, and web technologies.
+I'm **KODURI DURGA PRASAD**, a passionate **Software Developer, AI Enthusiast, and Problem Solver** who enjoys building practical and impactful technology solutions.
 
-I’m also interested in content creation and personal branding through platforms like **Instagram**, **LinkedIn**, **YouTube**, and **Medium**.
+I specialize in **Web Development, Artificial Intelligence, Automation, and Software Testing**, with hands-on experience in creating real-world projects using modern technologies. I enjoy exploring new tools, solving coding challenges, and continuously improving my technical skills.
 
-- 💡 I enjoy solving real-world problems with technology.
-- 🎥 I like creative work such as video editing and digital content creation.
-- 🤝 I value communication, collaboration, and teamwork.
-- 🌱 I’m always learning new tools, frameworks, and ideas.
+As a fresher, I bring:
+- 💡 Strong problem-solving mindset
+- 🚀 Quick learning ability and adaptability
+- 🤝 Team collaboration and communication skills
+- 🧠 Passion for AI, development, and innovation
+- 🎯 Consistency in competitive coding and self-learning
+
+I also enjoy content creation, UI/UX design, and experimenting with creative tech ideas that combine logic with innovation.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 🎨 Frontend
+## 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -35,10 +38,9 @@ I’m also interested in content creation and personal branding through platform
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF4088?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP%20in%20Python-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -46,48 +48,35 @@ I’m also interested in content creation and personal branding through platform
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20%2B%20MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unit%20Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white" />
   <img src="https://img.shields.io/badge/Debugging-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/SDLC-4B5563?style=for-the-badge&logo=processwire&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/IaaS-5C2D91?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PaaS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/SaaS-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce%20Administration-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</p>
-
-### 🤝 Soft Skills
-<p>
-  <img src="https://img.shields.io/badge/Communication-0A66C2?style=for-the-badge&logo=googlemessages&logoColor=white" />
-  <img src="https://img.shields.io/badge/Collaboration-FF6B6B?style=for-the-badge&logo=microsoftteams&logoColor=white" />
-  <img src="https://img.shields.io/badge/Time%20Management-222222?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adaptability-2ECC71?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </p>
 
 ---
 
-## 🌐 Social Media Links
+# 🌐 Social Media Links
 
 <p>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribers-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://x.com/Durgapr11481757" target="_blank">
+    <img src="https://img.shields.io/badge/X(Twitter)-4%20Followers-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+
   <a href="https://www.instagram.com/_babluuu_12/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-843*%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-843%2B%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
   <a href="https://www.linkedin.com/in/durgaprasad-koduri-443498255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://durgaprasadportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
@@ -95,7 +84,39 @@ I’m also interested in content creation and personal branding through platform
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Coding Profiles
+
+## 🟤 CodeChef
+- 🔗 https://www.codechef.com/users/durga_pasad
+- ⭐ Highest Rating: **1285**
+- 🌍 Global Rank: **67,141**
+- 🇮🇳 Country Rank: **63,464**
+- 🏆 Participated in **16 Contests**
+
+---
+
+## 🟡 LeetCode
+- 🔗 https://leetcode.com/u/koduridurgaprasad2003/
+- 📈 Contest Rating: **1,618**
+- 🌎 Rank: **359,634**
+- 🏁 Participated in **34 Contests**
+- ✅ Easy: **137**
+- ⚡ Medium: **183**
+- 🔥 Hard: **32**
+
+---
+
+## 🟢 HackerRank
+- 🔗 https://www.hackerrank.com/profile/koduridurgapras1
+- 🏅 4 Badges Earned
+  - Problem Solving
+  - Java
+  - Python
+  - C Language
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BabluK02122003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
@@ -105,13 +126,9 @@ I’m also interested in content creation and personal branding through platform
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BabluK02122003&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabluK02122003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BabluK02122003&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub trophies" />
@@ -119,14 +136,22 @@ I’m also interested in content creation and personal branding through platform
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/durgaprasad-koduri-443498255/" target="_blank">LinkedIn</a> •
-  <a href="https://www.instagram.com/_babluuu_12/" target="_blank">Instagram</a> •
-  <a href="https://durgaprasadportfolio.netlify.app/" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/durgaprasad-koduri-443498255/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+
+  <a href="https://www.instagram.com/_babluuu_12/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+
+  <a href="https://durgaprasadportfolio.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify" width="45" />
+  </a>
 </p>
 
 <p align="center">
-  ✨ Thanks for visiting my profile. I'm always ready to learn, collaborate, and build meaningful tech solutions.
+  ✨ Thanks for visiting my profile. I'm always excited to learn, collaborate, and build impactful technology solutions.
 </p>
