@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm KODURI DURGA PRASAD</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BabluK02122003&label=Profile%0Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=BabluK02122003&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
