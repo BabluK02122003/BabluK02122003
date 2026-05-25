@@ -83,37 +83,43 @@ I also enjoy content creation, UI/UX design, and experimenting with creative tec
 </p>
 
 ---
-
 # 💻 Coding Profiles
 
-## 🟤 CodeChef
-- 🔗 https://www.codechef.com/users/durga_pasad
-- ⭐ Highest Rating: **1285**
-- 🌍 Global Rank: **67,141**
-- 🇮🇳 Country Rank: **63,464**
-- 🏆 Participated in **16 Contests**
+<p align="center">
 
----
+  <a href="https://www.codechef.com/users/durga_pasad" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="50" height="50" alt="CodeChef"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-## 🟡 LeetCode
-- 🔗 https://leetcode.com/u/koduridurgaprasad2003/
-- 📈 Contest Rating: **1,618**
-- 🌎 Rank: **359,634**
-- 🏁 Participated in **34 Contests**
-- ✅ Easy: **137**
-- ⚡ Medium: **183**
-- 🔥 Hard: **32**
+  <a href="https://leetcode.com/u/koduridurgaprasad2003/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" height="50" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
----
+  <a href="https://www.hackerrank.com/profile/koduridurgapras1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="50" height="50" alt="HackerRank"/>
+  </a>
 
-## 🟢 HackerRank
-- 🔗 https://www.hackerrank.com/profile/koduridurgapras1
-- 🏅 4 Badges Earned
-  - Problem Solving
-  - Java
-  - Python
-  - C Language
+</p>
 
+<p align="center">
+
+🟤 <b>CodeChef</b> <br>
+⭐ Highest Rating: <b>1285</b> | 🌍 Global Rank: <b>67,141</b> | 🇮🇳 Country Rank: <b>63,464</b> | 🏆 16 Contests
+
+<br><br>
+
+🟡 <b>LeetCode</b> <br>
+📈 Contest Rating: <b>1,618</b> | 🌎 Rank: <b>359,634</b> | 🏁 34 Contests <br>
+✅ Easy: <b>137</b> | ⚡ Medium: <b>183</b> | 🔥 Hard: <b>32</b>
+
+<br><br>
+
+🟢 <b>HackerRank</b> <br>
+🏅 4 Badges — Problem Solving • Java • Python • C Language
+
+</p>
 ---
 
 # 📊 GitHub Stats
