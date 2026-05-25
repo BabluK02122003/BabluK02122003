@@ -89,8 +89,8 @@ I also enjoy content creation, UI/UX design, and experimenting with creative tec
 
 🟤 <b>
 <a href="https://www.codechef.com/users/durga_pasad" target="_blank">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="28" height="28" alt="CodeChef" />
-</a>
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20" height="20" alt="CodeChef" />
+</a>&nbsp;&nbsp;
 CodeChef
 </b> <br>
 
@@ -100,8 +100,8 @@ CodeChef
 
 🟡 <b>
 <a href="https://leetcode.com/u/koduridurgaprasad2003/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" alt="LeetCode" />
-</a>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20" height="20" alt="LeetCode" />
+</a>&nbsp;&nbsp;
 LeetCode
 </b> <br>
 
@@ -113,8 +113,8 @@ LeetCode
 
 🟢 <b>
 <a href="https://www.hackerrank.com/profile/koduridurgapras1" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="28" height="28" alt="HackerRank" />
-</a>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="20" height="20" alt="HackerRank" />
+</a>&nbsp;&nbsp;
 HackerRank
 </b> <br>
 
